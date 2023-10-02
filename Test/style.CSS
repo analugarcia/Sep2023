@@ -1,0 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header img {
+    width: 100%;
+
+}
+
+header{
+
+ width: 100%;   
+}
+
+#hero {
+    display:block; background-image: url(../Hero image.png);
+}
