@@ -1,0 +1,21 @@
+
+
+body{
+    
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Lobster Two', cursive;
+}
+  
+  li {
+    display: inline;
+  }
+
+  li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
