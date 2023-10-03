@@ -13,5 +13,5 @@ header{
 }
 
 #hero {
-    display:block; background-image: url(../Hero image.png);
+    display:block; background-image: url("../Hero image.png");
 }
